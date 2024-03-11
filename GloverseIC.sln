@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloverseIC", "GloverseIC\GloverseIC.csproj", "{64D89080-85E9-48DE-B0EA-8783463E0547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gloverse.Api", "Gloverse.Api\Gloverse.Api.csproj", "{CABF3B87-B888-4B23-9109-5EC13875B4A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64D89080-85E9-48DE-B0EA-8783463E0547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D89080-85E9-48DE-B0EA-8783463E0547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D89080-85E9-48DE-B0EA-8783463E0547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D89080-85E9-48DE-B0EA-8783463E0547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CABF3B87-B888-4B23-9109-5EC13875B4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABF3B87-B888-4B23-9109-5EC13875B4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABF3B87-B888-4B23-9109-5EC13875B4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABF3B87-B888-4B23-9109-5EC13875B4A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B771E908-F9B0-4705-B827-E89ADF74EE3B}
+	EndGlobalSection
+EndGlobal

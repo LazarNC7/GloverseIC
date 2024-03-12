@@ -1,6 +1,6 @@
 # Gloverse Readme
 
-Welcome to Gloverse, a modern food delivery application built using .NET 6, Sql Server, Blazor WebAssembly, and Bootstrap.
+Welcome to Gloverse, a modern food delivery application built using ASP.NET, Sql Server, Blazor WebAssembly, and Bootstrap.
 
 ## Features
 
@@ -12,7 +12,7 @@ Welcome to Gloverse, a modern food delivery application built using .NET 6, Sql 
 
 ## Technologies Used
 
-- **.NET 6**: Utilizing the latest version of .NET for robust backend development.
+- **ASP.NET 6**
 - **Sql Server**: A relational database management system for storing application data.
 - **Blazor WebAssembly**: A modern UI framework for building interactive web applications using C# and .NET.
 - **Bootstrap**: A popular CSS framework for creating responsive and mobile-first web pages.
